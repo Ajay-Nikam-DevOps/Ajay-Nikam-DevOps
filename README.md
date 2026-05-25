@@ -5,10 +5,10 @@
 DevOps Engineer with hands-on internship experience in CI/CD, cloud infrastructure, containerization, monitoring, and automation. During a 6-month internship at Hisan Labs Pvt Ltd, Pune, work included GitHub Actions, GitLab CI, Jenkins, Docker, Kubernetes, Terraform, CloudFormation, Ansible, Datadog, Prometheus, Grafana, Python, and Bash-based automation workflows.
 
 🌐 **Portfolio Website:** [ajay-nikam-devops.github.io/My-Profile/](https://ajay-nikam-devops.github.io/My-Profile/)  
-📍 **Location:** Pune, India 
-📧 **Email:** ajaynikamcb@gmail.com 
-💼 **LinkedIn:** [linkedin.com/in/ajay-nikam-devops/]([https://ajay-nikam-devops.github.io/My-Profile/] 
-🐙 **GitHub:** [github.com/Ajay-Nikam-DevOps](https://github.com/Ajay-Nikam-DevOps) 
+📍 **Location:** Pune, India  
+📧 **Email:** ajaynikamcb@gmail.com  
+💼 **LinkedIn:** [linkedin.com/in/ajay-nikam-devops/]([https://ajay-nikam-devops.github.io/My-Profile/]  
+🐙 **GitHub:** [github.com/Ajay-Nikam-DevOps](https://github.com/Ajay-Nikam-DevOps)  
 
 ---
 
