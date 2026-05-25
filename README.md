@@ -7,7 +7,7 @@ DevOps Engineer with hands-on internship experience in CI/CD, cloud infrastructu
 🌐 **Portfolio Website:** [ajay-nikam-devops.github.io/My-Profile/](https://ajay-nikam-devops.github.io/My-Profile/)  
 📍 **Location:** Pune, India  
 📧 **Email:** ajaynikamcb@gmail.com  
-💼 **LinkedIn:** [linkedin.com/in/ajay-nikam-devops/]([https://ajay-nikam-devops.github.io/My-Profile/]  
+💼 **LinkedIn:** [linkedin.com/in/ajay-nikam-devops/](https://ajay-nikam-devops.github.io/My-Profile/)  
 🐙 **GitHub:** [github.com/Ajay-Nikam-DevOps](https://github.com/Ajay-Nikam-DevOps)  
 
 ---
@@ -115,6 +115,6 @@ These are the repositories that should be built and pinned on the profile for a 
 - **Portfolio:** [ajay-nikam-devops.github.io/My-Profile/](https://ajay-nikam-devops.github.io/My-Profile/) 
 - **GitHub:** [github.com/Ajay-Nikam-DevOps](https://github.com/Ajay-Nikam-DevOps) 
 - **Email:** ajaynikamcb@gmail.com 
-- **LinkedIn:** [linkedin.com/in/ajay-nikam-devops/]([https://ajay-nikam-devops.github.io/My-Profile/] 
+- **LinkedIn:** [linkedin.com/in/ajay-nikam-devops/](https://ajay-nikam-devops.github.io/My-Profile/) 
 
 ---
